@@ -1,2 +1,2 @@
-# ml-financial-data
-Anwendung von ML und DL für Finanz-Daten
+# Anwendung von ML und DL für Financial Data
+
